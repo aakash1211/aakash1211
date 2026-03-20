@@ -22,9 +22,11 @@
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ## ◈ `whoami`
+
 ```bash
 $ cat aakash.config
 ```
+
 ```json
 {
   "name"        : "Aakash Arora",
@@ -60,8 +62,9 @@ $ cat aakash.config
 
 > *World's leading provider of credit ratings, research & risk analysis*
 
-- 🚀 Spearheaded development of a **novel product** for a brand-new line of business
-- ⚙️ Executed end-to-end migration of **multiple legacy applications** to modern platforms
+- 🏛️ Part of the **founding tech team** of a novel product for a newly established line of business — **Second Party Opinion (SPO)**
+- ☁️ Successfully migrated multiple **large-scale legacy applications** to modern platforms including **AWS Cloud & Microservices**
+- ⚡ Migrated **200+ legacy stored procedures** to production-ready REST APIs in just **2 months**
 - 🤖 **AI-powered migration** — fully migrated a legacy app using **Claude AI** with minimal manual coding
 
 </td>
@@ -79,6 +82,8 @@ $ cat aakash.config
 
 > *India's leading Healthcare IT service provider*
 
+- 🌐 Part of a tech team globalizing healthcare data across all network hospitals in the US via **CommonWell Health Alliance**
+- 🔗 Ensured seamless integration & secure data sharing between **Medstar Hospital Chain** and CommonWell Health Alliance
 - 🛠️ Built **Spring Boot microservices** powering critical healthcare workflows
 - 📦 Stack: Angular · PostgreSQL · Docker · Kubernetes · Kafka · JUnit · Mockito
 
@@ -97,6 +102,8 @@ $ cat aakash.config
 
 > *Leading InsurTech company*
 
+- ✈️ **Single-handedly initiated & implemented** a new product line — **Affinity Travel Insurance**
+- 🔌 Seamlessly integrated multiple APIs of various **Insurance Provider companies** with Broker & Client systems
 - ⚡ Developed robust **Spring Boot microservices** for insurance platform
 - 🗄️ Stack: MongoDB · JUnit · Mockito · REST APIs
 
@@ -115,7 +122,8 @@ $ cat aakash.config
 
 > *Digital Signage & Automation Technology Firm*
 
-- 🔬 Designed & built a **Web-based Automation Testing platform** from scratch
+- 💡 **Initiated & delivered** a web-based test automation app using Selenium & Java — capable of running tests across **multiple apps, environments & in parallel**
+- 🔬 Engineered the full platform using **Java · Spring Boot · Hibernate · Selenium · REST APIs**
 - 🛠️ Stack: Java · Spring Boot · Angular 8 · Hibernate · Selenium · Rest Assured
 
 </td>
@@ -223,6 +231,7 @@ $ cat aakash.config
 ---
 
 ## 🧠 `./design-philosophy --print`
+
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
