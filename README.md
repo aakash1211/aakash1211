@@ -1,163 +1,303 @@
 <div align="center">
- 
-# Aakash Arora
- 
-### Senior Software Engineer · Tech Lead · AI-Driven Engineering
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://in.linkedin.com/pub/aakash-arora/73/582/94a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakash1211)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash.arora121@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--9759393579-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919759393579)
- 
----
- 
-*Versatile tech leader with 10+ years of expertise in full-stack development and microservices architecture — designing, building, and delivering high-performance web applications while driving scalable, secure, and AI-augmented engineering solutions.*
- 
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║        █████╗  █████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗      ║
+║       ██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║      ║
+║       ███████║███████║█████╔╝ ███████║███████╗███████║      ║
+║       ██╔══██║██╔══██║██╔═██╗ ██╔══██║╚════██║██╔══██║      ║
+║       ██║  ██║██║  ██║██║  ██╗██║  ██║███████║██║  ██║      ║
+║       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝     ║
+║                                                               ║
+║             ██████╗ ██████╗  ██████╗ ██████╗  █████╗        ║
+║            ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔══██╗        ║
+║            ███████║██████╔╝██║   ██║██████╔╝███████║        ║
+║            ██╔══██║██╔══██╗██║   ██║██╔══██╗██╔══██║        ║
+║            ██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║        ║
+║            ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝        ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### `Senior Software Engineer` · `Tech Lead` · `AI-Driven Engineering`
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://in.linkedin.com/pub/aakash-arora/73/582/94a)
+[![GitHub](https://img.shields.io/badge/GITHUB-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakash1211)
+[![Gmail](https://img.shields.io/badge/GMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash.arora121@gmail.com)
+[![Phone](https://img.shields.io/badge/+91--9759393579-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919759393579)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=10%2B+Years+Building+Scalable+Systems+%F0%9F%9A%80;AI-Powered+Legacy+Modernization+%F0%9F%A4%96;200%2B+Stored+Procs+%E2%86%92+REST+APIs+in+2+Months+%E2%9A%A1;Microservices+%7C+Kafka+%7C+AWS+%7C+Spring+Boot+%F0%9F%94%A5" alt="Typing SVG" />
+
 </div>
- 
+
 ---
- 
-## 🧭 About Me
- 
-I'm a **Senior Software Engineer** specializing in cloud-native Java full-stack development, distributed systems, and **AI-driven legacy modernization**. Over the past decade, I've built and led engineering teams across fintech, healthtech, and insurtech domains.
- 
-At **Moody's Ratings**, I pioneered the use of generative AI (Claude) to migrate 200+ stored procedures into production-ready REST APIs in under 2 months — slashing manual effort while maintaining enterprise-grade quality. I thrive at the intersection of deep technical execution and strategic product thinking.
- 
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=aakash1211&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=00d9ff&icon_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117" />
+
+## `> whoami`
+
+```yaml
+name        : Aakash Arora
+role        : Senior Software Engineer / Tech Lead
+experience  : 10+ years
+location    : Gurugram, India
+domains     : FinTech · HealthTech · InsurTech
+superpower  : AI-driven legacy modernization
+current_co  : Moody's Ratings
+open_to     : Senior / Lead / Architect roles
+```
+
+<br clear="right"/>
+
 ---
- 
-## 🛠️ Tech Stack
- 
-### Languages & Frameworks
+
+## `> cat /skills/arsenal.json`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### ⚙️ Core Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+### 🌱 Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
- 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
- 
-### Cloud & DevOps
+
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
- 
-### AI & Automation
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 AI & Automation
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
- 
+![MCP](https://img.shields.io/badge/MCP_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white)
+
+### 🧪 Quality Engineering
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-CC2929?style=flat-square&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 ---
- 
-## 💼 Work Experience
- 
-### 🏢 Lead Software Developer — [Moody's Ratings](https://www.moodys.com)
-**📍 Gurugram · May 2022 – Present**
- 
-> Founding tech team member for the **"Second Party Opinion"** product line.
- 
-- 🤖 Leveraged **Generative AI (Claude)** to migrate **200+ stored procedures** into production-ready REST APIs within **2 months** — dramatically reducing manual engineering effort
-- 🔄 Transformed legacy Informatica ETL pipelines into optimized **Python & Shell scripts**, improving performance, reliability, and maintainability
-- 🏗️ Led end-to-end **legacy modernization initiatives**, architecting future-ready, scalable systems
-- 👨‍💻 Championed **AI-driven engineering practices**, boosting migration efficiency and developer productivity across the org
-- 📋 Drove cross-functional collaboration with Business Analysts for SLA adherence and requirement refinement
-- ✅ Established rigorous **code review processes** and enforced quality/coding standards across teams
-- 🔁 Executed **Agile methodologies** with comprehensive test plans covering functionality, performance, and scalability
- 
+
+## `> git log --format="%h %s" --career`
+
+```
+* [2022 – Present]  Lead Software Developer        @ Moody's Ratings, Gurugram
+* [2021 – 2022   ]  Senior Software Developer      @ CitiusTech Healthcare, Mumbai
+* [2020 – 2021   ]  Java Software Engineer         @ Symbo South Asia, Mumbai
+* [2019 – 2020   ]  Executive Software Engineer    @ Xtreme-Media Pvt. Ltd., Mumbai
+* [2018 – 2018   ]  Network Engineer               @ Agio Technologies, New Delhi
+* [2016 – 2017   ]  Corporate Trainer              @ Appco Technologies, Bengaluru
+```
+
 ---
- 
-### 🏥 Senior Software Developer — CitiusTech Healthcare Pvt. Ltd.
-**📍 Mumbai · Jan 2021 – May 2022**
- 
-- Architected **Spring Boot microservices** integrated with Angular, PostgreSQL, Docker, Kubernetes, and Kafka
-- Contributed to a high-impact initiative to **globalize healthcare data** across US network hospitals under the **CommonWell Health Alliance**
-- Ensured secure, seamless data integration between **MedStar hospital systems** and the CommonWell ecosystem
- 
----
- 
-### 🛡️ Java Software Engineer — Symbo South Asia Enterprises Limited
-**📍 Mumbai · Aug 2020 – Jan 2021**
- 
-- Built and deployed **Spring Boot microservices** with MongoDB, backed by JUnit/Mockito test coverage
-- Single-handedly initiated and delivered the **Affinity Travel Insurance** product — integrating APIs across multiple insurance providers, brokers, and client platforms
- 
----
- 
-### ⚙️ Executive Software Engineer — Xtreme-Media Pvt. Ltd.
-**📍 Mumbai · Mar 2019 – Aug 2020**
- 
-- Engineered a **web-based test automation platform** using Java, Spring Boot, Angular 8, Hibernate, Selenium, and REST APIs
-- Enabled scalable **parallel testing** across multiple applications and environments
- 
----
- 
-### 📡 Network Engineer — Agio Technologies Pvt. Ltd.
-**📍 New Delhi · Feb 2018 – Jul 2018**
- 
----
- 
-### 🎓 Corporate Trainer — Appco Technologies Pvt. Ltd.
-**📍 Bengaluru · Jan 2016 – Jan 2017**
- 
----
- 
-## 🎯 Core Competencies
- 
-| Domain | Skills |
-|---|---|
-| **Full-Stack Development** | Java, Angular, TypeScript, REST APIs |
-| **Microservices & Distributed Systems** | Spring Boot, Kafka/MSK, Event-Driven Architecture |
-| **Legacy Modernization** | AI-driven migration, Stored Procs → APIs, Informatica → Python |
-| **Cloud & DevOps** | AWS (Lambda, MSK, S3, CloudWatch), Docker, Kubernetes, CI/CD |
-| **Generative AI Engineering** | Claude, Spring AI, MCP, n8n |
-| **System Design** | HLD/LLD, Scalability, Performance Optimization |
-| **Quality Engineering** | TDD, JUnit, Mockito, Selenium, Test Automation |
- 
----
- 
-## 📂 Notable Projects
- 
-### 🏥 CMS for General Hospital *(Jan 2021 – Jun 2021)*
-A full-stack **Content Management System** for a general hospital — handling patient records, scheduling, and operational workflows. Built using Spring Boot microservices with a robust Angular frontend.
- 
----
- 
-## 🎓 Education
- 
-| Degree | Institution | Year |
-|---|---|---|
-| **PG Diploma in Advanced Computing** | C-DAC | 2019 |
-| **B.Tech. in Electronics & Communication Engineering** | — | 2015 |
- 
----
- 
-## 📊 GitHub Stats
- 
+
+## `> kubectl describe pod/moodys-ratings --since=2022`
+
 <div align="center">
- 
-![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakash1211&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash1211&layout=compact&theme=github_dark&hide_border=true)
- 
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🏢  MOODY'S RATINGS  ·  Lead Software Developer  ·  May 2022 →    │
+│  📍  Gurugram                                                        │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
- 
+
+> **Founding tech team member** for the _Second Party Opinion_ product line
+
+<table>
+<tr>
+<td width="50%">
+
+**🚀 Impact Highlights**
+
+```
+✅  200+ stored procedures → REST APIs
+    ⏱  Completed in 2 months
+    🤖  Powered by Generative AI (Claude)
+    📉  Near-zero manual engineering effort
+
+✅  Legacy Informatica → Python + Shell
+    📈  Improved performance & reliability
+    🔧  Enhanced maintainability
+
+✅  Second Party Opinion product (new LOB)
+    🏗  Shaped core architecture
+    📦  Drove end-to-end delivery
+```
+
+</td>
+<td width="50%">
+
+**⚙️ Responsibilities**
+
+```
+→  Large-scale legacy app migrations
+→  End-to-end modernization leadership
+→  AI-driven engineering practices
+→  High-performance web app development
+→  Cross-functional stakeholder alignment
+→  Code review & quality enforcement
+→  Agile delivery & SLA adherence
+```
+
+</td>
+</tr>
+</table>
+
 ---
- 
-## 🌐 Languages
- 
-`English` &nbsp;|&nbsp; `Hindi` &nbsp;|&nbsp; `Marathi` &nbsp;|&nbsp; `Kannada`
- 
----
- 
+
+## `> kubectl describe pod/citiustech --since=2021`
+
 <div align="center">
- 
-*"Engineering excellence isn't just about writing code — it's about crafting systems that scale, evolve, and outlast the trends."*
- 
-⭐ If you find my work useful, feel free to star a repo or connect on LinkedIn!
- 
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🏥  CITIUSTECH HEALTHCARE  ·  Senior Software Developer           │
+│  📍  Mumbai  ·  Jan 2021 → May 2022                                 │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+- 🔧 Architected **Spring Boot microservices** → Angular · PostgreSQL · Docker · Kubernetes · Kafka
+- 🌐 Contributed to **healthcare data globalization** across US network hospitals (CommonWell Health Alliance)
+- 🔒 Secured seamless data integration between **MedStar hospital systems** and CommonWell ecosystem
+
+---
+
+## `> kubectl describe pod/symbo --since=2020`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🛡️  SYMBO SOUTH ASIA  ·  Java Software Engineer                   │
+│  📍  Mumbai  ·  Aug 2020 → Jan 2021                                  │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+- 🏗 Built and deployed **Spring Boot microservices** with MongoDB backed by JUnit/Mockito coverage
+- ✈️ Solo-delivered the **Affinity Travel Insurance** product line — integrated APIs across multiple insurers, brokers & client platforms
+
+---
+
+## `> cat achievements.log | grep IMPACT`
+
+```
+[IMPACT] ⚡  2 months  → 200+ stored procs migrated to REST APIs using Claude AI
+[IMPACT] 🌐  1 product → Globalized healthcare data across US hospital network
+[IMPACT] 🚀  1 engineer → Delivered entire Travel Insurance product end-to-end
+[IMPACT] 🏆  Founding member → "Second Party Opinion" product @ Moody's Ratings
+[IMPACT] 🔄  Multiple → Legacy Informatica pipelines converted to Python & Shell
+[IMPACT] 🧪  Platform → Built web-based test automation for parallel test execution
+```
+
+---
+
+## `> cat /education/degrees.txt`
+
+```
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  🎓  PG Diploma in Advanced Computing                     │
+│      Centre for Development of Advanced Computing (C-DAC) │
+│      2019                                                  │
+│                                                            │
+│  🎓  B.Tech. — Electronics & Communication Engineering    │
+│      2015                                                  │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> cat /stats/github_metrics.sh | bash`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash1211&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash1211&theme=radical&hide_border=true&stroke=00d9ff&ring=ff6b6b&fire=ff6b6b&currStreakLabel=00d9ff&background=0d1117" />
+
+</div>
+
+---
+
+## `> ping aakash --verbose`
+
+<div align="center">
+
+```
+PING aakash.arora [10+ years of engineering excellence]
+64 bytes: ttl=∞   icmp_seq=1  time=<2ms  →  Java Full-Stack
+64 bytes: ttl=∞   icmp_seq=2  time=<2ms  →  Microservices Architecture
+64 bytes: ttl=∞   icmp_seq=3  time=<2ms  →  AI-Driven Modernization
+64 bytes: ttl=∞   icmp_seq=4  time=<2ms  →  Cloud Native (AWS + K8s)
+64 bytes: ttl=∞   icmp_seq=5  time=<2ms  →  Event-Driven Systems (Kafka)
+64 bytes: ttl=∞   icmp_seq=6  time=<2ms  →  Distributed System Design
+
+--- aakash.arora ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss
+```
+
+</div>
+
+---
+
+## `> env | grep LANGUAGES`
+
+```
+SPOKEN_LANGUAGES    =  English : Hindi : Marathi : Kannada
+PROGRAMMING_LANGS   =  Java : TypeScript : Python : Angular
+ARCHITECTURE_LANGS  =  HLD : LLD : DDD : Event-Driven
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "Engineering is not just about writing code —                 ║
+║    it's about crafting systems that outlast the trends."        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=aakash1211&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/aakash1211?style=for-the-badge&color=ff6b6b&label=FOLLOWERS)](https://github.com/aakash1211)
+
+**⭐ Star something worth starring. Connect if we speak the same language — in code or otherwise.**
+
 </div>
